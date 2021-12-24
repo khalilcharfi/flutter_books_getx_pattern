@@ -1,0 +1,18 @@
+{
+  "books": "Books",
+  "ok": "Ok",
+  "save": "Save",
+  "cache_failure": "There was a problem in saving data in your device",
+  "book_not_found": "Book not found",
+  "edit_failure": "Book can't be modified",
+  "required": "Input required",
+  "only_letter_number": "Only letters and numbers authorized",
+  "name": "Name",
+  "author": "Author",
+  "image": "Book cover",
+  "input_length": "input should have @min to @max characters",
+  "book_added": "New book added successfully",
+  "book_saved": "The book modified successfully",
+  "book_deleted": "The book deleted successfully",
+  "book_deleted_issue": "The book can't be deleted"
+}

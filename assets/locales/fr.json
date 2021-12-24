@@ -1,0 +1,18 @@
+{
+  "books": "Livres",
+  "ok": "Ok",
+  "save": "Sauvegarder",
+  "cache_failure": "Un problème est survenu lors de l'enregistrement des données sur votre appareil",
+  "book_not_found": "Livre introuvable",
+  "edit_failure": "Le livre ne peut pas être modifié",
+  "required": "Saisie requise",
+  "only_letter_number": "Seuls les lettres et chiffres autorisés",
+  "name": "Nom",
+  "author": "Auteur",
+  "image": "Couverture du livre",
+  "input_length": "l'entrée doit avoir les caractères @min à @max",
+  "book_added": "Nouveau livre ajouté avec succès",
+  "book_saved": "Le livre a été modifié avec succès",
+  "book_deleted": "Le livre a été supprimé avec succès",
+  "book_deleted_issue": "The book can't be deleted"
+}
